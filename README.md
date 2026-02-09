@@ -1,1 +1,1 @@
-# Optimized-Vertical-Well-Casing-Design-Using-the-Bottom-Up-Method
+Here I am attaching the pynb file and pdf file of the model.
